@@ -1,2 +1,2 @@
 # GitSpace
-🌌 The official repository of GitSpace.
+## 🌌 The official repository of GitSpace.
